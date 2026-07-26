@@ -1,0 +1,7 @@
+*.npy
+*.pkl
+__pycache__/
+*.pyc
+*.pdf
+*.csv
+*.h5
